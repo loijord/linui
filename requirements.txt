@@ -1,1 +1,4 @@
 jupyter
+dash
+dash_cytoscape
+numpy
